@@ -20,6 +20,7 @@
 [VOIM API 명세서](https://voim.store/api/swagger-ui/index.html#/)
 
 ## 🛠️ System Architecture
+![Image](https://github.com/user-attachments/assets/53748bbc-c56c-49dc-ac57-2584ac687067)
 
 ## ❓ 질문 사항
 ### 💚 프론트엔드
