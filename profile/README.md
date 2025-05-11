@@ -11,10 +11,7 @@
 </div>
 
 ## 📂 ERD
-<details>
-<summary> ERD </summary>
-<img src="https://github.com/user-attachments/assets/21a55374-3eb2-4369-864b-e71d7a7b3fe0" width="300" alt="image" />
-</details>
+![VOIM_ERD](https://github.com/user-attachments/assets/a6872a66-3275-4ab6-b07d-5e61bc5dc174)
 
 ## 📜 API 명세서
 [VOIM API 명세서](https://voim.store/api/swagger-ui/index.html#/)
