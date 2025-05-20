@@ -1,4 +1,7 @@
-# 👀 VOIM 
+# 👀 VOIM : 보이지 않아도, 보임이니까
+````
+✨ Make the invisible visible
+````
 
 ## 👨‍👩‍👧‍👦 Members
 <div align="center">
