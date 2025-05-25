@@ -14,7 +14,7 @@
 </div>
 
 ## 📂 ERD
-![VOIM_2차 (1)](https://github.com/user-attachments/assets/0eedd52a-c83f-4b5a-976f-7bf9fe7c6243)
+![VOIM_2차 (3)](https://github.com/user-attachments/assets/d35e5dd1-8d20-4a32-a80b-eafe1592c32f)
 
 ## 📜 API 명세서
 [VOIM API 명세서](https://voim.store/api/swagger-ui/index.html#/)
